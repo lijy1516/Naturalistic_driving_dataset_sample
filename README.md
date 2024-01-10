@@ -14,6 +14,8 @@ The apparatus is shown as below. A Sport Utility Vehicle (SUV, model: Chery Tigg
 
 ![github1](https://github.com/lijy1516/Naturalistic_driving_dataset_sample/assets/77088809/25defbd5-e3b1-45ff-81fb-bea8b6c98524)
 
+<img src="fig/apparatus.png" width="100%">
+
 ## Route
 
 The route map in the naturalistic driving experiments is shown as below.
