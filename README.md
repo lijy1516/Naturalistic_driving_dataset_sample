@@ -24,7 +24,7 @@ The route map in the naturalistic driving experiments is shown as below.
 
 The videos captured by the front-view, rear-view, and eye-tracking cameras during a left lane change (LLC) is shown below.
 
-(https://github.com/lijy1516/Naturalistic_driving_dataset_sample/assets/77088809/20f3997e-1e4c-4fe0-b6a2-34e4c04ce352){width=120% height=120%}
+https://github.com/lijy1516/Naturalistic_driving_dataset_sample/assets/77088809/1bcd2a24-defa-449d-95bc-7505c728c868
 
 
 
