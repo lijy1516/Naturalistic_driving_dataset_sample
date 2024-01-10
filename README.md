@@ -12,15 +12,13 @@ Compared to previous datasets, our dataset has a broad range of modalities, dive
 
 The apparatus is shown as below. A Sport Utility Vehicle (SUV, model: Chery Tiggo 8) is equipped with an Inertial Measurement Unit (IMU) and a Global Positioning System (GPS) to collect high-precision motion data via CAN bus. The power supply, inverter, Vector CAN analyzer, dSPACE, and the on-board computer are installed in the trunk.
 
-![github1](https://github.com/lijy1516/Naturalistic_driving_dataset_sample/assets/77088809/25defbd5-e3b1-45ff-81fb-bea8b6c98524)
-
 <img src="fig/apparatus.png" width="100%">
 
 ## Route
 
 The route map in the naturalistic driving experiments is shown as below.
 
-![github2](https://github.com/lijy1516/Naturalistic_driving_dataset_sample/assets/77088809/e20873d0-dec4-4baf-9038-35214928ab2d)
+<img src="fig/route.png" width="120%">
 
 ## Video
 
@@ -28,6 +26,6 @@ The videos captured by the front-view, rear-view, and eye-tracking cameras durin
 
 https://github.com/lijy1516/Naturalistic_driving_dataset_sample/assets/77088809/1bcd2a24-defa-449d-95bc-7505c728c868
 
-
+<img src="fig/LLC3.gif" width="120%">
 
 
